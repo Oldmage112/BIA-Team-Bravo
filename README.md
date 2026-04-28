@@ -3,6 +3,13 @@
 BIA Capstone Project – Team Bravo  
 Labour Market & Economic Analytics (Nova Scotia)
 
+## Team Members:
+Sven Ambrose (Project Manager)
+Chibuzor Opara (Reporting Lead)
+Morgan Garnier (Data Lead)
+Syeda Samiha Zafar (SQL/ETL Analyst)
+
+
 ## Project Overview
 This project analyzes publicly available labor market data for Nova Scotia to identify employment trends and support data-driven insights through analysis and visualization.
 
