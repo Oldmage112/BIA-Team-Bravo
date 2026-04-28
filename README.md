@@ -10,7 +10,7 @@ Chibuzor Opara (Reporting Lead)
 
 Morgan Garnier (Data Lead)
 
-Syeda Samiha Zafar (SQL/ETL Analyst)
+Syeda Samiha Zafar (SQL/ETL Analyst & Documentation)
 
 
 ## Project Overview
