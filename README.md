@@ -5,8 +5,11 @@ Labour Market & Economic Analytics (Nova Scotia)
 
 ## Team Members:
 Sven Ambrose (Project Manager)
+
 Chibuzor Opara (Reporting Lead)
+
 Morgan Garnier (Data Lead)
+
 Syeda Samiha Zafar (SQL/ETL Analyst)
 
 
