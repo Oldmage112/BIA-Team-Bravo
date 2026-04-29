@@ -9,13 +9,15 @@ This 5‑week project analyzes labour market and economic trends in Nova Scotia,
 With rising cost‑of‑living pressures and uneven employment impacts across industries and regions, Nova Scotia faces ongoing challenges related to workforce stability and economic planning. This project transforms raw labour market data into actionable insights through data integration, exploratory analysis, forecasting, and interactive visualization to support evidence‑based workforce planning and policy analysis.
 
 ## Team Members:
-Sven Ambrose (Project Manager)
 
-Chibuzor Opara (Reporting Lead)
+•	Sven Ambrose (Project Manager)
 
-Morgan Garnier (Data Lead)
+•	Chibuzor Opara (Reporting Lead)
 
-Syeda Samiha Zafar (SQL/ETL Analyst & Documentation)
+•	Morgan Garnier (Data Lead)
+
+•	Syeda Samiha Zafar (SQL/ETL Analyst & Documentation)
+
 
 
 # Goals:
