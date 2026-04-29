@@ -4,9 +4,9 @@ BIA Capstone Project – Team Bravo
 Labour Market & Economic Analytics (Nova Scotia)
 
 ## Project Overview
-This project analyzes publicly available labor market data for Nova Scotia to identify employment trends and support data-driven insights through analysis and visualization.
+This 5‑week project analyzes labour market and economic trends in Nova Scotia and United state, with a focus on employment, unemployment, wages, industry performance, and workforce participation. Using publicly available data from Statistics Canada, Nova Scotia Open Data, and U.S. government sources, the project examines how recent economic pressures and structural changes have affected workforce outcomes at the provincial level, while using other provinces and U.S. states as comparative reference points.
 
-Developed as part of a Business Intelligence & Analytics course, the project simulates a real-world analytics workflow using public data.
+With rising cost‑of‑living pressures and uneven employment impacts across industries and regions, Nova Scotia faces ongoing challenges related to workforce stability and economic planning. This project transforms raw labour market data into actionable insights through data integration, exploratory analysis, forecasting, and interactive visualization to support evidence‑based workforce planning and policy analysis.
 
 ## Team Members:
 Sven Ambrose (Project Manager)
