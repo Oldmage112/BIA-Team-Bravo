@@ -34,13 +34,16 @@ With rising cost‑of‑living pressures and uneven employment impacts across in
 
 ## Data Sources
 
-• Statistics Canada
+•	Statistics Canada -https://www.statcan.gc.ca/en/start
 
-• Nova Scotia Open Data Portal
+•	Nova Scotia Open Data Portal - https://data.novascotia.ca/
 
-• U.S. Bureau of Economic Analysis (BEA)
+•	U.S. Bureau of Economic Analysis (BEA) - [U.S. Bureau of Economic Analysis (BEA)](https://www.bea.gov/)
 
-• U.S. Census Bureau
+•	U.S. Census Bureau - https://www.census.gov/
+
+•	FRED- [Federal Reserve Economic Data | FRED | St. Louis Fed](https://fred.stlouisfed.org/)
+
 
 ## Repository Structure
 
