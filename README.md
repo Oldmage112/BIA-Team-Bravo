@@ -18,7 +18,7 @@ Morgan Garnier (Data Lead)
 Syeda Samiha Zafar (SQL/ETL Analyst & Documentation)
 
 
-##Goals
+## Goals:
 •	Build a project model to identify unemployment trends over the last 5 years, while highlighting how it compares to national rates during key events. 
 •	Identify which industries in the United States and Canada show the strongest employment growth or decline.
 •	Assess the relationship between educational attainment and employment outcomes in the United States and Canada.
