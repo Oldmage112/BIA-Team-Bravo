@@ -27,7 +27,7 @@ Syeda Samiha Zafar (SQL/ETL Analyst & Documentation)
 
 
 ## Data Sources
-The project uses publicly available labor market datasets from Nova Scotia government sources.
+Data sources coming from Statistics Canada, Nova Scotia Open Data Portal, US Bureau of Economic Activity, and US Census Bureau
 
 ## Repository Structure
 
