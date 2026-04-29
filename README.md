@@ -17,12 +17,14 @@ Morgan Garnier (Data Lead)
 
 Syeda Samiha Zafar (SQL/ETL Analyst & Documentation)
 
-Goals
+
+##Goals
 •	Build a project model to identify unemployment trends over the last 5 years, while highlighting how it compares to national rates during key events. 
 •	Identify which industries in the United States and Canada show the strongest employment growth or decline.
 •	Assess the relationship between educational attainment and employment outcomes in the United States and Canada.
 •	Identify how wage levels vary by region, industry, and occupation in Canada and the United States.
 •	Is it possible to predict employment levels for the next 12 months using historical LFS data? 
+
 
 ## Data Sources
 The project uses publicly available labor market datasets from Nova Scotia government sources.
@@ -40,6 +42,8 @@ BIA-Team-Bravo/
 ├── reports/
 │
 └── README.md
+
+
 Project Timeline & Deliverables
 This project follows a 5‑week agile-based delivery plan, with weekly progress updates presented during on‑site Monday scrum meetings. Each week has defined goals, deliverables, and formal checkpoints to ensure steady progress and quality outcomes.
 
