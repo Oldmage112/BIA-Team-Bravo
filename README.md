@@ -22,11 +22,16 @@ Syeda Samiha Zafar (SQL/ETL Analyst & Documentation)
 The project uses publicly available labor market datasets from Nova Scotia government sources.
 
 ## Repository Structure
-Labour-Market-Economic-Analytics/
+
+BIA-Team-Bravo/
 │
 ├── data/
 │   ├── raw/
-│   └── clean
+│   └── clean/
+│
 ├── scripts/
+│
 ├── reports/
+│
 └── README.md
+
