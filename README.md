@@ -48,19 +48,25 @@ BIA-Team-Bravo/
 
 │
 
+├── Documents/
+
+│   └── Project Charter.docx
+
+│
+
 ├── data/
 
-│   ├── raw/
+│   ├── clean/
 
-│   └── clean/
+│   └── raw/
 
 │
 
 ├── scripts/
 
-│
+│   ├── Python/
 
-├── reports/
+│   └── Power Query/
 
 │
 
