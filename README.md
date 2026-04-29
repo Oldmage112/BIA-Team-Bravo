@@ -44,7 +44,9 @@ BIA-Team-Bravo/
 └── README.md
 
 
-Project Timeline & Deliverables
+## Project Timeline & Deliverables
+
+
 This project follows a 5‑week agile-based delivery plan, with weekly progress updates presented during on‑site Monday scrum meetings. Each week has defined goals, deliverables, and formal checkpoints to ensure steady progress and quality outcomes.
 
 Week 1 — Scoping, Charter & Data Acquisition
