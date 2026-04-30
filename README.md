@@ -67,9 +67,7 @@ BIA-Team-Bravo/
 
 ├── scripts/
 
-│   ├── Python/
-
-│   └── Power Query/
+│   └── PowerQuery/
 
 │
 
