@@ -1,4 +1,4 @@
-# BIA-Team-Bravo
+# Labour Market & Economic Analytics (Nova Scotia)
 
 BIA Capstone Project – Team Bravo  
 Labour Market & Economic Analytics (Nova Scotia)
