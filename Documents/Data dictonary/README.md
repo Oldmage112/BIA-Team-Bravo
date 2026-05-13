@@ -1,6 +1,10 @@
 # Dataset Documentation
 
-This folder contains GitHub-friendly README files generated from the provided datasets.
+This folder contains GitHub-friendly README files generated from the provided Excel datasets (data + dictionary sheets).
 
 ## Files
+- [README_Labour_force_characteristics_by_age_group_gender_StatCanada_dictionary.csv.md](README_Labour_force_characteristics_by_age_group_gender_StatCanada_dictionary.csv.md)
+- [README_Cleaned_Employment_by_industry_and_dictionary.csv.md](README_Cleaned_Employment_by_industry_and_dictionary.csv.md)
+- [README_Cleaned_Employment_average_hourly_and_weekly_earnings_and_dictionary_including_overtime.md](README_Cleaned_Employment_average_hourly_and_weekly_earnings_and_dictionary_including_overtime.md)
+- [README_NS_minimum_Wage_2016-2026_and_dictionary.csv.md](README_NS_minimum_Wage_2016-2026_and_dictionary.csv.md)
 - [README_Annual_Payday_Loan_Data_Dictionary.md](README_Annual_Payday_Loan_Data_Dictionary.md)
