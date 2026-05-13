@@ -1,0 +1,22 @@
+Industry Employment Rank
+Total Employed (All Industries)
+Province Earnings Rank
+Avg Weekly Earnings
+Part Time Employed
+Part Time Employed MoM % Change
+Part Time Employed YoY % Change
+Full Time Employed
+Full Time Employed MoM % Change
+Full Time Employed YoY % Change
+Part Time / Full Time Employed
+Part Time Employed MoM % Change
+Part Time / Full Time Employed YoY % Change
+Avg Weekly Earnings (Hourly)  
+Earnings (Hourly) MoM % Growth
+Earnings (Hourly) YoY % Growth 
+Avg Weekly Earnings (Salaried)
+Earnings (Salaried) MoM % Growth
+Earnings (Salaried) YoY % Growth
+Avg Weekly Earnings (Hourly) / Avg Weekly Earnings (Salaried)
+Earnings (Hourly) / Earnings (Salaried) MoM % Growth  
+Earnings (Hourly) / Earnings (Salaried) YoY % Growth
