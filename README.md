@@ -20,6 +20,7 @@ With rising cost‑of‑living pressures and uneven employment impacts across in
 
 
 # Goals:
+
 •	Build a project model to identify unemployment trends over the last 5 years, while highlighting how it compares to national rates during key events. 
 
 •	Identify which industries in Canada show the strongest employment growth or decline.
@@ -74,7 +75,7 @@ BIA-Team-Bravo/
 
 This project follows a 5‑week agile-based delivery plan, with weekly progress updates presented during on‑site Monday scrum meetings. Each week has defined goals, deliverables, and formal checkpoints to ensure steady progress and quality outcomes.
 
-#### Week 1 — Scoping, Charter & Data Acquisition
+### Week 1 — Scoping, Charter & Data Acquisition
 
 Timeline: Wednesday–Friday (Short Week)
 
