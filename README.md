@@ -12,12 +12,11 @@ With rising cost‑of‑living pressures and uneven employment impacts across in
 
 •	Sven Ambrose (Project Manager)
 
-•	Chibuzor Opara (Reporting Lead)
-
 •	Morgan Garnier (Data Lead)
 
 •	Syeda Samiha Zafar (SQL/ETL Analyst & Documentation)
 
+•	Chibuzor Opara (Reporting Lead)
 
 
 # Goals:
