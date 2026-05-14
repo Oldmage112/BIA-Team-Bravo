@@ -1470,7 +1470,7 @@ CALCULATE ( [Employment Rate (%)], SAMEPERIODLASTYEAR ( 'Dim Date'[REF_DATE] ) )
 **Calculation:**
 
 ```DAX
-CALCULATE ( [Total Value of LabourForce Characteristics], 'Dim Characteristics'[Labour force characteristics] = "Full-time employment")
+CALCULATE (AVERAGE ( 'Fact LabourForce characteristics by age group gender'[VALUE] ),'Dim Characteristics'[Labour force characteristics] = "Full-time employment")
 ```
 
 ### Full Time Employed MoM % Change
@@ -1550,7 +1550,8 @@ CALCULATE ( [Part Time / Full Time Employed], DATEADD ( 'Dim Date'[REF_DATE], -1
 **Calculation:**
 
 ```DAX
-CALCULATE ( [Total Value of LabourForce Characteristics], 'Dim Characteristics'[Labour force characteristics] = "Part-time employment")
+Full Time Employed = CALCULATE (AVERAGE ( 'Fact LabourForce characteristics by age group gender'[VALUE] ),'Dim Characteristics'[Labour force characteristics] = "Full-time employment")
+
 ```
 
 ### Part Time Employed MoM % Change
@@ -1590,7 +1591,7 @@ CALCULATE ( [Part Time Employed], DATEADD ( 'Dim Date'[REF_DATE], -1, YEAR) ) )
 **Calculation:**
 
 ```DAX
-CALCULATE ( [Total Value of LabourForce Characteristics], 'Dim Characteristics'[Labour force characteristics] = "Employment")
+CALCULATE ( AVERAGE ( 'Fact LabourForce characteristics by age group gender'[VALUE] ), 'Dim Characteristics'[Labour force characteristics] = "Employment" )
 ```
 
 ### Total Employed MoM % Change
@@ -1670,7 +1671,8 @@ CALCULATE ( [Total Population], DATEADD ( 'Dim Date'[REF_DATE], -1, Year ) ) )
 **Calculation:**
 
 ```DAX
-CALCULATE ( [Total Value of LabourForce Characteristics], 'Dim Characteristics'[Labour force characteristics] = "Unemployment" )
+CALCULATE ( [Total Value of LabourForce Characteristics], 'Dim Characteristics'[Labour force characteristics] = "Unemployment" CALCULATE ( AVERAGE ( 'Fact LabourForce characteristics by age group gender'[VALUE] ), 'Dim Characteristics'[Labour force characteristics] = "Unemployment")
+
 ```
 
 ### Total Unemployed MoM % Change
