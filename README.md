@@ -76,6 +76,7 @@ BIA-Team-Bravo/
 This project follows a 5‑week agile-based delivery plan, with weekly progress updates presented during on‑site Monday scrum meetings. Each week has defined goals, deliverables, and formal checkpoints to ensure steady progress and quality outcomes.
 
 ### Week 1 — Scoping, Charter & Data Acquisition
+##
 
 Timeline: Wednesday–Friday (Short Week)
 
@@ -86,7 +87,8 @@ Deliverables:
 -Documentation links shared during Monday scrum
 
 
-#### Week 2 — Data Wrangling, Modelling & Version Control
+### Week 2 — Data Wrangling, Modelling & Version Control
+##
 
 Deliverables:
 
@@ -95,7 +97,8 @@ Deliverables:
 •	Completed data dictionary
 
 
-#### Week 3 — Exploratory Analysis & Predictive Modelling
+### Week 3 — Exploratory Analysis & Predictive Modelling
+##
 
 Deliverables:
 
@@ -110,7 +113,8 @@ Deliverables:
 •	Forecast outputs and analysis tables exported for reporting
 
 
-#### Week 4 — Power BI Dashboard Build & Iteration
+### Week 4 — Power BI Dashboard Build & Iteration
+##
 
 Deliverables:
 
@@ -125,7 +129,8 @@ Deliverables:
 •	QA‑validated visuals and interactions
 
 
-#### Week 5 — Final Delivery, Presentation & Project Closure
+### Week 5 — Final Delivery, Presentation & Project Closure
+##
 
 Final Deliverables:
 
