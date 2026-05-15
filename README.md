@@ -101,7 +101,9 @@ Timeline: Wednesday–Friday (Short Week)
 Deliverables:
 
 -Completed Project Charter
+
 -GitHub repository initialized
+
 -Documentation links shared during Monday scrum
 
 
@@ -111,7 +113,9 @@ Deliverables:
 Deliverables:
 
 •	Cleaned and validated datasets
+
 •	SQL, Python, and Power Query scripts committed to GitHub
+
 •	Completed data dictionary
 
 
