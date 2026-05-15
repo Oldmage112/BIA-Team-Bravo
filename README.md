@@ -19,7 +19,7 @@ With rising cost‑of‑living pressures and uneven employment impacts across in
 •	Chibuzor Opara (Reporting Lead)
 
 
-# Goals:
+## Goals:
 
 •	Build a project model to identify unemployment trends over the last 5 years, while highlighting how it compares to national rates during key events. 
 
