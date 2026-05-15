@@ -38,6 +38,24 @@ With rising cost‑of‑living pressures and uneven employment impacts across in
 
 •	Nova Scotia Open Data Portal - https://data.novascotia.ca/
 
+• Statistics Canada. (2026, May 8). Labour force survey (SDDS 3701).
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3701
+
+• Statistics Canada. (2026, April 30). Table 14-10-0223-01: Employment indicators by geography.
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410022301
+
+• Statistics Canada. (2026, May 8). Table 14-10-0355-02: Employment indicators by time period.
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410035502
+
+• Statistics Canada. (2026, April 30). Table 14-10-0222-01: Average weekly earnings by industry.
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410022201
+
+• Government of Nova Scotia. (2026, February 23). Annual payday loan data.
+https://data.novascotia.ca/Financial-Services/Annual-Payday-Loan-Data/5r5j-xye7/about_data
+
+• Government of Nova Scotia. (2026, March 24). Nova Scotia minimum wage.
+https://data.novascotia.ca/Employment-and-Labour/Nova-Scotia-Minimum-Wage/nwgz-2j48/about_data
+
 
 ## Repository Structure
 
