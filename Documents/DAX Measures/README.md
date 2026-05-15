@@ -1352,12 +1352,12 @@ CALCULATE ( sum('Fact Employment by industry'[VALUE]), 'Dim Geo'[Geogrphy] = "Ca
 
 **Source table:** `Fact Employment by industry`
 
-**Explanation:** Sums the VALUE column of the Fact Employment by Industry table to give overall employment across all industries and geographies in context.
+**Explanation:** Averages the VALUE column of the Fact Employment by Industry table to give overall employment across all industries and geographies in context.
 
 **Calculation:**
 
 ```DAX
-SUM('Fact Employment by industry'[VALUE])
+AVERAGE('Fact Employment by industry'[VALUE])
 ```
 
 ### Total Employment MoM % Change
