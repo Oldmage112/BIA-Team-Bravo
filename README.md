@@ -64,10 +64,16 @@ BIA-Team-Bravo/
 │
 
 ├── Documents/
+    
+│   └── Dax Measure/
 
-│   └── Project Charter.docx
+│   └── Data dictonary/
 
-│
+│   └── Project Charter.docx/
+
+│   └── Schema Model.png/
+
+│   
 
 └── PowerBI
 
