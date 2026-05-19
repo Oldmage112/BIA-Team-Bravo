@@ -34,10 +34,6 @@ With rising cost‑of‑living pressures and uneven employment impacts across in
 
 ## Data Sources
 
-•	Statistics Canada -https://www.statcan.gc.ca/en/start
-
-•	Nova Scotia Open Data Portal - https://data.novascotia.ca/
-
 • Statistics Canada. (2026, May 8). Labour force survey (SDDS 3701).
 https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3701
 
