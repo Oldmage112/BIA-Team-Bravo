@@ -9,6 +9,7 @@ This repository contains five cleaned datasets related to labour market conditio
 - [3. Employment — Average Hourly & Weekly Earnings (Including Overtime)](#3-employment--average-hourly--weekly-earnings-including-overtime)
 - [4. Nova Scotia Minimum Wage (2016–2026)](#4-nova-scotia-minimum-wage-20162026)
 - [5. Annual Payday Loan Data](#5-annual-payday-loan-data)
+- [6. Canada Debt (Interest-only Debt Service Ratio)] (#6-canada-debt-interest-only-debt-service-ratio)
 
 ---
 
@@ -213,21 +214,74 @@ Annual statistics on payday lending activity, including borrower counts, repeat 
 
 ---
 
-## General Usage Notes
 
-All datasets use a **long (tidy) format**: one row per observation. For time-series analysis, ensure date columns are typed correctly before loading.
+## 6. Canada Debt (Interest-only Debt Service Ratio)
 
-### Importing into Power BI
+**Source file:** Canada Debt.csv
 
-1. **Home → Get data → Excel / CSV** and select the relevant file.
-2. Load the data sheet as your fact table.
-3. Load the dictionary sheet (where available) as a reference table for documentation.
-4. Set date columns to the **Date** type and relate them to a shared date dimension if building a multi-table model.
+#### Overview
 
-### Suggested Analysis Ideas
+Annual debt service ratio (interest-only) values across Canada and provinces. This dataset captures the proportion of income used to service interest payments on debt, providing insight into household financial pressure over time.
 
-- Trend lines of employment and earnings over time (monthly).
-- Compare labour force characteristics across provinces and territories.
-- Overlay Nova Scotia minimum wage changes against average hourly earnings.
-- Examine repeat payday borrowing patterns and default rates over fiscal years.
-- Cross-reference employment by industry with labour force participation by age/gender.
+#### Schema
+
+**Rows:** 110
+
+<table>
+<tr>
+<th>Column</th>
+<th>Data Type</th>
+<th>Description</th>
+<th>Units</th>
+<th>Notes</th>
+</tr>
+
+<tr>
+<td>REF_DATE</td>
+<td>Integer (Year)</td>
+<td>Reference year for the observation</td>
+<td>Year</td>
+<td>2015–2024</td>
+</tr>
+
+<tr>
+<td>GEO</td>
+<td>String</td>
+<td>Geographic area for which the debt metric is reported</td>
+<td>—</td>
+<td>Canada and provinces</td>
+</tr>
+
+<tr>
+<td>Estimates</td>
+<td>String</td>
+<td>Metric label describing the estimate</td>
+<td>—</td>
+<td>"Equals: debt service ratio, interest only"</td>
+</tr>
+
+<tr>
+<td>VALUE</td>
+<td>Float</td>
+<td>Debt service ratio (interest-only)</td>
+<td>Not specified</td>
+<td>Range approx. 4.14 – 10.87</td>
+</tr>
+</table>
+
+#### Coverage & Granularity
+
+- **Date range:** 2015 → 2024 (annual)
+- **Geographies:** 11 (Canada + provinces)
+- **VALUE range:** 4.14 → 10.87
+- **Metric:** Debt service ratio (interest-only)
+
+#### Notes
+
+- Units are not explicitly specified in the dataset. This measure is typically interpreted as a **percentage of income** used for interest payments.
+- The dataset contains a **single estimate type**, making it ideal for straightforward trend comparisons.
+- Clear trend patterns:
+  - Decline during 2020–2021 (COVID-related low interest rates)
+  - Sharp increase in 2022–2024 (rate hikes)
+
+---
