@@ -21,7 +21,7 @@ With rising cost‑of‑living pressures and uneven employment impacts across in
 
 ## Goals:
 
-•	Build a project model to identify unemployment trends over the last 5 years, while highlighting how it compares to national rates during key events. 
+•	Build a project model to identify unemployment trends over the last 10 years, while highlighting how it compares to national rates during key events. 
 
 •	Identify which industries in Canada show the strongest employment growth or decline.
 
