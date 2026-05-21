@@ -65,6 +65,8 @@ BIA-Team-Bravo/
 
 │   └── Data dictonary/
 
+│   └── Executive Summary.docx
+
 │   └── Project Charter.docx
 
 │   └── Schema Model.png
